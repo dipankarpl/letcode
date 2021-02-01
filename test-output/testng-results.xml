@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7408" started-at="2021-02-01T15:53:17Z" finished-at="2021-02-01T15:53:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7408" started-at="2021-02-01T15:53:17Z" finished-at="2021-02-01T15:53:24Z">
+      <class name="tests.EditTest">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:tests.EditTest@4b4523f8]" name="initializeDriver" is-config="true" duration-ms="8635" started-at="2021-02-01T21:23:08Z" finished-at="2021-02-01T21:23:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="editPageTest1()[pri:0, instance:tests.EditTest@4b4523f8]" name="editPageTest1" duration-ms="3054" started-at="2021-02-01T21:23:17Z" finished-at="2021-02-01T21:23:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editPageTest1 -->
+        <test-method status="PASS" signature="editPageTest2()[pri:0, instance:tests.EditTest@4b4523f8]" name="editPageTest2" duration-ms="1211" started-at="2021-02-01T21:23:20Z" finished-at="2021-02-01T21:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editPageTest2 -->
+        <test-method status="PASS" signature="editPageTest3()[pri:0, instance:tests.EditTest@4b4523f8]" name="editPageTest3" duration-ms="985" started-at="2021-02-01T21:23:21Z" finished-at="2021-02-01T21:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editPageTest3 -->
+        <test-method status="PASS" signature="editPageTest4()[pri:0, instance:tests.EditTest@4b4523f8]" name="editPageTest4" duration-ms="862" started-at="2021-02-01T21:23:22Z" finished-at="2021-02-01T21:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editPageTest4 -->
+        <test-method status="PASS" signature="editPageTest5()[pri:0, instance:tests.EditTest@4b4523f8]" name="editPageTest5" duration-ms="1233" started-at="2021-02-01T21:23:23Z" finished-at="2021-02-01T21:23:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editPageTest5 -->
+        <test-method status="PASS" signature="editPageTest6()[pri:0, instance:tests.EditTest@4b4523f8]" name="editPageTest6" duration-ms="19" started-at="2021-02-01T21:23:24Z" finished-at="2021-02-01T21:23:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editPageTest6 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.EditTest@4b4523f8]" name="tearDown" is-config="true" duration-ms="962" started-at="2021-02-01T21:23:24Z" finished-at="2021-02-01T21:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.EditTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
