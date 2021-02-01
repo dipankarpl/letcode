@@ -9,7 +9,7 @@ import base.TestBase;
 import pages.EditPage;
 
 public class EditTest extends TestBase {
-
+	// adding comment
 	@Test
 	public void editPageTest1() {
 		EditPage ep = new EditPage(driver);
